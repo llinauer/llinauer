@@ -1,7 +1,15 @@
-### 
+### Lukas Linauer's Github
+---
+Data Analysit at IMS Nanofabrication GmbH.
 
-<!--
-**llinauer/llinauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in AI/ML, Python, Linux, Physics, Mathematics.
+
+## Connect with me on: 
+
+### Languages and Tools
+
+[<img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]
+
 
 Here are some ideas to get you started:
 
