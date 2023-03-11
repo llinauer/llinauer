@@ -7,8 +7,7 @@ Interested in AI/ML, Python, Linux, Physics, Mathematics.
 - :book: Currently reading: Microeconomics by Robert Pyndick and Daniel Rubinfeld
 
 ## Connect with me on: 
-[<img align="left" alt="Linkedin" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg
-"/>](https://www.linkedin.com/in/lukas-linauer)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lukas-linauer)
 
 
 ### Languages and Tools
