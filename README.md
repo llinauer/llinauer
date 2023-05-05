@@ -4,7 +4,7 @@ Data Analysit at IMS Nanofabrication GmbH.
 
 Interested in AI/ML, Python, Linux, Physics, Mathematics.
 
-- :book: Currently reading: **Microeconomics** by Robert Pyndick and Daniel Rubinfeld
+- :book: Currently reading: **Deep Reinforcement Learning Hands-On** by Maxim Lapan
 - 👯 I’m looking to collaborate on **Kaggle competitions and open source projects**.
 
 ## Connect with me on: 
