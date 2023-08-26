@@ -1,6 +1,6 @@
 ### Lukas Linauer's Github
 ---
-Data Analyst at IMS Nanofabrication GmbH.
+Data Scientist / AI Engineer
 
 Interested in AI/ML, Python, Linux, Physics, Mathematics.
 
