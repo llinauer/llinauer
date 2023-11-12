@@ -1,11 +1,9 @@
 ### Lukas Linauer's Github
 ---
-Data Scientist / AI Engineer
-
+AI Scientist
 Interested in AI/ML, Python, Linux, Physics, Mathematics.
 
-- :book: Currently reading: **Deep Reinforcement Learning Hands-On** by Maxim Lapan
-- 👯 I’m looking to collaborate on **Kaggle competitions and open source projects**.
+- :book: Currently reading: **Understanding Probability** by Henk Tijms
 
 ## Connect with me on: 
 <a href="https://linkedin.com/in/lukas-linauer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lukas-linauer/" height="30" width="40" /></a>
