@@ -3,7 +3,7 @@
 AI Scientist
 Interested in AI/ML, Python, Linux, Physics, Mathematics.
 
-- 📖 Currently reading: **Noise** - Daniel Kahneman
+- 📖 Currently reading: **Computer Networking: A Top-Down Approach** - James F. Kurose
 - Currently participating in the AI Safety Camp: https://aisafety.camp/ 
 
 ## Connect with me on: 
