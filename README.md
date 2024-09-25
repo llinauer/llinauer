@@ -4,7 +4,7 @@ AI Scientist
 Interested in AI/ML, Python, Linux, Physics, Mathematics.
 
 - 📖 Currently reading: **Computer Networking: A Top-Down Approach** - James F. Kurose
-- Currently participating in the AI Safety Camp: https://aisafety.camp/ 
+- Currently stuying for **CompTIA Network+**
 
 ## Connect with me on: 
 <a href="https://linkedin.com/in/lukas-linauer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lukas-linauer/" height="30" width="40" /></a>
