@@ -1,7 +1,6 @@
 ### Lukas Linauer's Github
 ---
-Research Engineer
-Interested in AI/ML, Python, Linux, Physics, Mathematics.
+Research Engineer - Interested in AI/ML, Python, Linux, Physics, Mathematics.
 
 - 📖 Currently reading: **Introduction to the Theory of Computation** - Michael Sipser
 
