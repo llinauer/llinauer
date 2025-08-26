@@ -1,6 +1,6 @@
 ### Lukas Linauer's Github
 ---
-Research Engineer - Interested in AI/ML, Python, Linux, Physics, Mathematics.
+Research Engineer - Interested in AI/ML, Python, Linux, Physics, Statistics and HEAVY METAL!.
 
 - 📖 Currently reading: **Reinforcement Learning: An Introduction** - Andrew Barto & Richard S. Sutton
 
