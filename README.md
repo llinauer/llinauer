@@ -2,7 +2,7 @@
 ---
 Research Engineer - Interested in AI/ML, Python, Linux, Physics, Statistics and HEAVY METAL!.
 
-- 📖 Currently reading: **Reinforcement Learning: An Introduction** - Andrew Barto & Richard S. Sutton
+- 📖 Currently reading: **The Phoenix Project** - Gene Kim, Kevin Behr & George Spafford
 
 
 ## Connect with me on: 
