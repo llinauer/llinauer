@@ -2,7 +2,7 @@
 ---
 Research Engineer - Interested in AI/ML, Python, Linux, Physics, Statistics and HEAVY METAL!.
 
-- 📖 Currently reading: **The Phoenix Project** - Gene Kim, Kevin Behr & George Spafford
+- 📖 Currently reading: **Die Fabrik** - Hiroko Oyamada
 
 
 ## Connect with me on: 
